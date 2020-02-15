@@ -1,0 +1,43 @@
+.header{
+     height: 400px;
+     background-image: url(pink.jpg);
+     background-size: cover;
+    width: 100%;
+}
+.header .header-block{
+    
+    height: 400px;
+    width: 1400px; 
+
+    
+}
+
+.header-block .head1{
+    width: 1450px;
+    height: 100px;
+    margin: 0;
+    float: left;
+    background-color:rgba(247, 241, 245, 0.5) ;
+    
+   
+}
+
+.head1 .logo {
+    width: 300px;
+    height: 100px;
+    float: left;
+}
+.head1 .list{
+    width: 800px;
+    height: 100px;
+    float: left;
+    padding-top: 20px;
+}
+
+.head1 .list ul li{
+    float: left;
+    list-style-type: none;
+    margin: 0 20px;
+    
+
+}
