@@ -1,6 +1,6 @@
 .header{
-     height: 400px;
-     background-image: url(pink.jpg);
+     height: 570px;
+     background-image: url(ka.jpg);
      background-size: cover;
     width: 100%;
 }
@@ -13,11 +13,11 @@
 }
 
 .header-block .head1{
-    width: 1450px;
+    width: 100%;
     height: 100px;
     margin: 0;
     float: left;
-    background-color:rgba(247, 241, 245, 0.5) ;
+    background-color: rgba(247, 241, 245, 0.5) ;
     
    
 }
@@ -26,6 +26,8 @@
     width: 300px;
     height: 100px;
     float: left;
+    padding-left: 90px;
+    padding-top: 10px;
 }
 .head1 .list{
     width: 800px;
@@ -40,4 +42,9 @@
     margin: 0 20px;
     
 
+}
+
+.headercon {
+    text-align: center;
+    
 }
