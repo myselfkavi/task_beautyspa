@@ -1,50 +1,95 @@
 .header{
-     height: 570px;
-     background-image: url(ka.jpg);
-     background-size: cover;
-    width: 100%;
+    height: 570px;
+    background-image: url(ka.jpg);
+    background-size: cover;
+   width: 100%;
 }
 .header .header-block{
-    
-    height: 400px;
-    width: 1400px; 
+   
+   height: 400px;
+   width: 1400px; 
 
-    
-}
-
-.header-block .head1{
-    width: 100%;
-    height: 100px;
-    margin: 0;
-    float: left;
-    background-color: rgba(247, 241, 245, 0.5) ;
-    
    
 }
 
+.header-block .head1{
+   width: 100%;
+   height: 100px;
+   margin: 0;
+   float: left;
+   background-color: rgba(247, 241, 245, 0.5) ;
+   
+  
+}
+
 .head1 .logo {
-    width: 300px;
-    height: 100px;
-    float: left;
-    padding-left: 90px;
-    padding-top: 10px;
+   width: 300px;
+   height: 100px;
+   float: left;
+   padding-left: 90px;
+   padding-top: 10px;
 }
 .head1 .list{
-    width: 800px;
-    height: 100px;
-    float: left;
-    padding-top: 20px;
+   width: 800px;
+   height: 100px;
+   float: left;
+   padding-top: 20px;
 }
 
 .head1 .list ul li{
-    float: left;
-    list-style-type: none;
-    margin: 0 20px;
-    
+   float: left;
+   list-style-type: none;
+   margin: 0 20px;
+   
 
 }
 
 .headercon {
+   text-align: center;
+   
+}
+.card1 {
+    background-color: hotpink;
+    height: 300px;
     text-align: center;
+    margin top: 20px;
+}
+.card2 {
+    background-color: white;
+    height: 300px;
+}
+.card3{
     
+    height: 370px;
+    background-color: teal;
+}
+.card3 .card3-block{
+    width: 1000px;
+    height: 370px;
+    background: white;
+    margin: 0 auto;
+}
+
+.card3-block .cardd3{
+    height: 150px;
+    width: 300px;
+    
+    text-align: center;
+
+    color: black;
+    padding-left: 20px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    float: left;
+    border: 1px solid rgb(255, 253, 253);
+    padding: 10px 10px 0 10px;
+    background:white;
+
+}
+
+.card3-block .cardd3 img{
+    width: 40px;
+    height: 40px;
+    float: left;
+
 }
