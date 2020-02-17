@@ -201,3 +201,52 @@
     text-align: center;
     
 }
+.card8{
+    height: 150px;
+    background:white;
+
+}
+
+.card8 .card8-block{
+    width: 1000px;
+    height: 150px;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+
+
+.card9 {
+    height: 400px;
+    background: white;
+}
+
+.card9 .card9-block{
+    width: 1000px;
+    height: 400px;
+    background-color: white;
+    margin: 0 auto;
+    
+}
+
+.card9-block .cardd9{
+    width: 1000px;
+    height: 400px;
+
+}
+
+.cardd9 .card{
+    width: 230px;
+    height: 400px;
+    float: left;
+    text-align: center;
+    padding-left: 20px;
+    
+}
+
+.card9-block  .cardd9 img{
+    height:150px;
+    width: 150px;
+
+}
