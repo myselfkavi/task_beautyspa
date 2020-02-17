@@ -57,11 +57,13 @@
 .card2 {
     background-color: white;
     height: 300px;
+    margin: 0 auto;
+    
 }
 .card3{
     
     height: 370px;
-    background-color: teal;
+    
 }
 .card3 .card3-block{
     width: 1000px;
@@ -71,8 +73,9 @@
 }
 
 .card3-block .cardd3{
-    height: 150px;
+    height: 100px;
     width: 300px;
+    
     
     text-align: center;
 
@@ -96,7 +99,7 @@
 .card4{
     
     height: 140px;
-    background:white;
+    background:hotpink;
 }
 
 .card4 .card4-block{
@@ -107,146 +110,3 @@
     text-align: center;
 }
 
-.card5{
-    
-    height: 500px;
-    background:white;
-}
-
-.card5 .card5-block{
-    width: 1000px;
-    height: 500px;
-    background: white;
-    margin: 0 auto;
-}
-
-.card5-block .cardd5{
-    height: 120px;
-    width: 440px;
-    
-    text-align: left;
-    text-align: justify;
-
-    padding-left: 20px;
-    margin-bottom: 30px;
-    margin-left: 20px;
-    float: left;
-    border-bottom: 1px solid rgb(231, 9, 9);
-    padding: 10px 10px 0 20px;
-    background:white;
-    float: left;
-
-}
-
-.cardd5 p{
-    width: 280px;
-    text-align: left;
-}
-
-.card5-block .cardd5 img{
-    width: 50px;
-    height: 50px;
-    float: right;
-
-}
-
-.card6{
-
-    height: 140px;
-    background: white;
-}
-
-.card6 .card6-block{
-    width: 1000px;
-    height: 140px;
-    background: white;
-    margin: 0 auto;
-    text-align: center;
-}
-.card7 {
-    height: 400px;
-    background: white;
-}
-
-.card7 .card7-block{
-    width: 1000px;
-    height: 400px;
-    margin: 0 auto;
-    background: white;
-    
-}
-
-.card7-block ul li{
-    float: left;
-    width: 185px;
-    height: 140px;
-    list-style-type: none;
-}
-
-.card7-block ul li img{
-    width: 185px;
-    height: 140px;
-    
-}
-.card8{
-    height: 150px;
-    background:white;
-
-}
-
-.card8 .card8-block{
-    width: 1000px;
-    height: 150px;
-    margin: 0 auto;
-    text-align: center;
-    
-}
-.card8{
-    height: 150px;
-    background:white;
-
-}
-
-.card8 .card8-block{
-    width: 1000px;
-    height: 150px;
-    margin: 0 auto;
-    text-align: center;
-    
-}
-
-
-
-.card9 {
-    height: 400px;
-    background: white;
-}
-
-.card9 .card9-block{
-    width: 1000px;
-    height: 400px;
-    background-color: white;
-    margin: 0 auto;
-    
-}
-
-.card9-block .cardd9{
-    width: 1000px;
-    height: 400px;
-
-}
-
-.cardd9 .card{
-    width: 230px;
-    height: 400px;
-    float: left;
-    text-align: center;
-    padding-left: 20px;
-    
-}
-
-.card9-block  .cardd9 img{
-    height:150px;
-    width: 150px;
-
-}
